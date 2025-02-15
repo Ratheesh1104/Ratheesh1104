@@ -1,29 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ratheesh Mano</h1>
-<h3 align="center">Data Analyst | AI Enthusiast | Transforming Insights into Impact</h3>
+<!-- 🔥 Interactive Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%23F7B93E&center=true&vCenter=true&width=600&height=50&lines=🚀+Data+Analyst+|+AI+Enthusiast+🚀;⚡+Turning+Data+into+Intelligence+⚡;💡+Exploring+Machine+Learning+💡" />
+</h1>
 
-- 🔭 I’m currently working on **Data Science Project**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Project's**
-
-- 🤝 I’m looking for help in **Machine Learning**
-
-- 💬 Ask me about **If you'd like to incorporate any specific tools (like Python, SQL, or TensorFlow) or focus on AI and data science**
-
-- 📫 How to reach me **m.ratheeshmano@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kOCRH9Ppb89zcoEFahhOeMqlbedJJ-I-/view?usp=drive_link](https://drive.google.com/file/d/1kOCRH9Ppb89zcoEFahhOeMqlbedJJ-I-/view?usp=drive_link)
-
-- ⚡ Fun fact **I can find insights in messy datasets faster than I can decide what to order for lunch**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ratheesh-mano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratheesh-mano" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/m_ratheeshmano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_ratheeshmano" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_ratheeshmano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_ratheeshmano" height="30" width="40" /></a>
-<a href="https://discord.gg/4N8zhKTBRr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4N8zhKTBRr" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50">
+  <b>Welcome to my Data & AI Hub!</b>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🌟 About Me  
+🚀 **Data Enthusiast | AI Explorer | Insight-Driven Analyst**  
+
+🔭 **Currently Working On:** End-to-End **Machine Learning Projects**  
+🌱 **Learning:** Deep Learning, AI, and Data Engineering  
+📫 **Reach Me:** [m.ratheeshmano@gmail.com](mailto:m.ratheeshmano@gmail.com)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1kOCRH9Ppb89zcoEFahhOeMqlbedJJ-I-/view?usp=drive_link)  
+
+---
+
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/ratheesh-mano" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/m_ratheeshmano" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/_ratheeshmano" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://discord.gg/4N8zhKTBRr" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,linux,tensorflow,pandas,scikit-learn,matplotlib,seaborn" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+- **BMW Aplex Naltics BI Dashboard** – Real-time business analytics  
+- **Blikit Sales Dashboard** – Data-driven sales optimization  
+- **Zomato Business Insights** – Restaurant performance analytics  
+- **Coffee Insights Hub** – Growth strategies using data insights  
+- **Style Transfer (VGG19 & SRCNN)** – AI-powered image enhancement  
+
+---
+
+## 🎯 Fun Facts  
+📊 **Data > Opinions** – Let numbers tell the story!  
+🤖 **Waiting for AI to make my coffee!** ☕  
+🔁 **Routine:** Eat 🍔 → Code 💻 → Analyze 📈 → Repeat  
+
+---
+
+## ⭐ Support & Collaboration  
+🌟 If you find my work useful, drop a ⭐️ on my projects!  
+💬 Open to discussions and brainstorming new ideas!  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="200">
+</p>
