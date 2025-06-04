@@ -20,11 +20,6 @@ I am a **Machine Learning Engineer** passionate about AI, deep learning, and dat
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit-learn,pandas,mysql,mongodb,git,github,linux,matplotlib,seaborn,docker,kubernetes,aws" />
 </p>
 
-## Featured Projects  
-✔ **Chicken Disease Classification** – Deep Learning-based disease detection  
-✔ **Titanic Survival Prediction** – Machine Learning classification model  
-✔ **Wine Quality Prediction** – ML model for quality assessment  
-✔ **Style Transfer (VGG19 & SRCNN)** – AI-powered image enhancement  
 
 ## Why Machine Learning?  
 I believe that **data-driven decision-making** is key to solving complex real-world problems. My goal is to bridge the gap between **raw data and actionable insights** by designing AI models that make an impact.
