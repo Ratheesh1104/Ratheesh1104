@@ -13,7 +13,7 @@ I am a **Machine Learning Engineer** passionate about AI, deep learning, and dat
 📌 **Current Focus:** End-to-End Machine Learning & Deep Learning Projects  
 🎯 **Exploring:** MLOps, AI Optimization, and Model Deployment  
 📩 **Contact:** [m.ratheeshmano@gmail.com](mailto:m.ratheeshmano@gmail.com)  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1dV70P3v2TqmG-3gLEzwwbIB09Sxoj7o0/view?usp=sharing)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1wr_JJQhBOQZh8QhHzb6XY6y4m-FlDulS/view?usp=sharing)  
 
 ## Skills & Tools  
 <p align="center">
